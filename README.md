@@ -1,5 +1,4 @@
 # Polynomial
-Rutgers University - Data Structures Programming Assignment
 
 The purpose of this assignment was to create a program that can accept and manipulate polynomials and operate on them.
 The primary data structure used was singly-linked linked lists, as defined in the Node class.
